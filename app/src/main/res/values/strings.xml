@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OratorIQ Speech Lab</string>
+    <string name="tab_workbench">Workbench</string>
+    <string name="tab_dataset">Dataset &amp; Stress</string>
+    <string name="tab_studio">Live Studio</string>
+    <string name="tab_deliverables">Deliverables</string>
+    <string name="play_baseline">Play Baseline</string>
+    <string name="play_participant">Play Take</string>
+    <string name="stop_audio">Stop Audio</string>
+    <string name="export_dataset">Export Dataset Bundle</string>
+    <string name="export_docs">Export Technical Paper</string>
+    <string name="record_speech">Record Speech</string>
+    <string name="import_wav">Import WAV</string>
+    <string name="run_stress_suite">Run Full Stress Suite</string>
+</resources>

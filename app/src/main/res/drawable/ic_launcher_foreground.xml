@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Temporal Flaw Grounding Bracket -->
+    <path
+        android:fillColor="#33FF4D6D"
+        android:pathData="M46,26h22v56h-22z" />
+    <path
+        android:strokeColor="#FF4D6D"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M46,26v56M68,26v56M46,26h5M63,26h5M46,82h5M63,82h5" />
+    <!-- Baseline Ideal Waveform (Cyan) -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M22,54 L29,44 L36,64 L43,32 L50,72 L57,28 L64,70 L71,38 L78,62 L86,54" />
+    <!-- Contrastive Participant Waveform (Amber) -->
+    <path
+        android:strokeColor="#FFAB00"
+        android:strokeWidth="3.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M22,56 L29,49 L36,61 L43,51 L50,55 L57,52 L64,56 L71,42 L78,60 L86,54" />
+</vector>
